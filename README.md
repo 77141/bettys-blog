@@ -1,1 +1,1 @@
-http//bettysfitness.github.io/bettysblog/
+http//bettysfitness.github.io/blog/
